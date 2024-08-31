@@ -19,8 +19,8 @@ This project is a Django application that processes images from a CSV file. The 
 ### 1. Clone the Repository and create env and start server with worker
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/prafullpandey614/CSV-Image-Extract-Webhook-Trigger.git
+cd CSV-Image-Extract-Webhook-Trigger
 python -m venv env
 pip install -r requirements.txt
 
