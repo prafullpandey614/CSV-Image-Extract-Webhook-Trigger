@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 python manage.py makemigrations
 python manage.py migrate
-celery -A project worker --loglevel=info
+celery -A project worker -l info -P solo
 ```
 
 ```bash
