@@ -6,6 +6,7 @@ This project is a Django application that processes images from a CSV file. The 
 
 ## [API Docs Postman Link](https://documenter.getpostman.com/view/22703914/2sAXjM2r3t)
 
+## [Supporting Docs](https://docs.google.com/document/d/1ILw-sJWMHn_-270hSBTZuTDk_44InwRqC6k4vvVH_x0/edit?usp=sharing)
 
 ## Requirements
 
