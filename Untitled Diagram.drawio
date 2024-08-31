@@ -124,9 +124,6 @@
         <mxCell id="mh2q9ViT-cWz4Q1U7_gi-42" value="request id" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mh2q9ViT-cWz4Q1U7_gi-43" value="Response : In Progress or Completed" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mh2q9ViT-cWz4Q1U7_gi-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mh2q9ViT-cWz4Q1U7_gi-44" target="mh2q9ViT-cWz4Q1U7_gi-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
