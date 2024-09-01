@@ -28,7 +28,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 DEBUG = True
 
 # ALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', 'csv-image-extract-webhook-trigger-hj3ynq1ox.vercel.app').split(',')
-ALLOWED_HOSTS = ['csv-image-extract-webhook-trigger-hj3ynq1ox.vercel.app']
+ALLOWED_HOSTS = ['csv-image-extract-webhook-trigger-hj3ynq1ox.vercel.app','csv-image-extract-webhook-trigger.vercel.app']
 
 # Application definition
 
